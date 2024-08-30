@@ -1,10 +1,10 @@
-# Human Values in Philosophy Papers
+# Taxonomy Literature
 
-This repository contains a curated list of philosophy papers related to various human values. The papers are categorized based on the primary human value they address.
+This document contains a list of research papers curated from our taxonomy development process. The papers are categorized based on the primary human value they address.
 
 ## Categories of Human Values
 
-1.  Justice/Human Rights & Animal Right
+1. Justice/Human Rights & Animal Right
 2. Civility/Tolerance
 3. Duty/Accountability
 4. Empathy/Helpfulness
@@ -146,4 +146,4 @@ Feel free to submit pull requests to add more papers or suggest improvements to 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This work is licensed under a CC BY 4.0 license
