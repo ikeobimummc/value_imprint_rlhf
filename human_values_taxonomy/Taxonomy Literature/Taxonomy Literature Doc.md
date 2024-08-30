@@ -1,4 +1,4 @@
-# Curated Human Values Taxonomy Literature
+# Human Values Taxonomy Literature
 
 This document contains a list of research papers curated from our human values taxonomy development process. The papers are categorized according to the hierarchical theme of the primary/dominant human value they address. Read our paper to learn more about the process.
 
