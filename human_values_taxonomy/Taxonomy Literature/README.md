@@ -34,7 +34,6 @@ This document contains a list of research papers curated from our human values t
 | Civility/Tolerance | John Stuart Mill's Harm Principle and Free Speech: Expanding the Notion of Harm | Bell, Melina Constantine | https://www.cambridge.org/core/journals/utilitas/article/john-stuart-mills-harm-principle-and-free-speech-expanding-the-notion-of-harm/F1D77D5D5F9A4B8AA3BAD4058A9708B4 | 2021 |
 | Civility/Tolerance | A Puzzle Concerning Gratitude and Accountability | Wallace, Robert H. | https://link.springer.com/10.1007/s10892-022-09398-2 | 2022 |
 | Civility/Tolerance | Toleration as the Balance Between Liberty and Security | Galeotti, Anna Elisabetta and Liveriero, Federica | https://link.springer.com/10.1007/s10892-021-09363-5 | 2021 |
-| Civility/Tolerance | Terrorism, Morality, and Supreme Emergency | Coady, C. A. J. | https://doi.org/10.1086/383440 | 2004 |
 | Wisdom/Knowledge | Adversity, Conflict, Wisdom | Brady, Michael and Ardelt, Monika and Plews-Ogan, Margaret and Pope, Stephen | http://link.springer.com/10.1007/s10790-019-09704-6 | 2019 |
 | Wisdom/Knowledge | Why Suffering Is Essential to Wisdom | Brady, Michael S. | http://link.springer.com/10.1007/s10790-019-09707-3 | 2019 |
 | Wisdom/Knowledge | Wisdom, Suffering, and Humility | Baehr, Jason | http://link.springer.com/10.1007/s10790-018-9677-2 | 2019 |
